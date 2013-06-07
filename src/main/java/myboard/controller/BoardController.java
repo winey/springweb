@@ -61,7 +61,7 @@ public class BoardController {
         return mav;
     }
 
-    @RequestMapping (value="/myboard", method = RequestMethod.POST)
+    @RequestMapping (value="/myboard/save", method = RequestMethod.POST)
     public String save(HttpServletRequest request, Board board) {
         HttpSession session = request.getSession();
         if (session.getAttribute("isLogin") == null) {

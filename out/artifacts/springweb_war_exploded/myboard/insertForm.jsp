@@ -8,7 +8,7 @@
     <title>등록</title>
   </head>
   <body>
-  <form method=post action="/myboard">
+  <form method=post action="/myboard/save">
    <table>
        <tr>
            <td>title</td><td><input type="text" name="title" /></td>
