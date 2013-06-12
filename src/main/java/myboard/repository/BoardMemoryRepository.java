@@ -1,6 +1,6 @@
 package myboard.repository;
 
-import myboard.entity.Board;
+import myboard.domain.Board;
 
 import java.util.ArrayList;
 import java.util.List;

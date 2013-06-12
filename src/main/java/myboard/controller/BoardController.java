@@ -1,9 +1,12 @@
 package myboard.controller;
 
-import myboard.entity.Board;
+import myboard.domain.Board;
 import myboard.repository.BoardRepository;
+import myboard.validator.BoardValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -25,28 +28,7 @@ public class BoardController {
     @Autowired
     BoardRepository boardRepository;
 
-    @RequestMapping (value = "/myboard/loginform")
-    public String loginForm() {
-        return "/myboard/loginForm";
-    }
 
-    @RequestMapping (value = "/myboard/login")
-    public String login(HttpServletRequest request) {
-        HttpSession session = request.getSession();
-        session.setAttribute("isLogin", true);
-        return "redirect:/myboard";
-    }
-
-    @RequestMapping (value = "/myboard/logout")
-    public String logout(HttpServletRequest request) {
-        HttpSession session = request.getSession();
-        if (session.getAttribute("isLogin") == null) {
-            return "redirect:/myboard/loginform";
-        }
-
-        session.invalidate();
-        return "redirect:/myboard";
-    }
 
     @RequestMapping (value = "/myboard", method=RequestMethod.GET)
     public ModelAndView hello(HttpServletRequest request) {
@@ -62,10 +44,15 @@ public class BoardController {
     }
 
     @RequestMapping (value="/myboard/save", method = RequestMethod.POST)
-    public String save(HttpServletRequest request, Board board) {
+    public String save(HttpServletRequest request, @ModelAttribute("command") Board board, BindingResult result) {
         HttpSession session = request.getSession();
         if (session.getAttribute("isLogin") == null) {
             return "redirect:/myboard/loginform";
+        }
+
+        new BoardValidator().validate(board, result);
+        if (result.hasErrors()) {
+            return "insertForm";
         }
 
         boardRepository.addBoard(board);

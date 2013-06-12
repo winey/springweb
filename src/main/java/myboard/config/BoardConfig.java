@@ -2,9 +2,11 @@ package myboard.config;
 
 import myboard.repository.BoardMemoryRepository;
 import myboard.repository.BoardRepository;
+import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.support.ResourceBundleMessageSource;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
@@ -22,5 +24,11 @@ public class BoardConfig extends WebMvcConfigurerAdapter {
     @Bean
     public BoardRepository boardRepository() {
         return new BoardMemoryRepository();
+    }
+    @Bean
+    public MessageSource messageSource () {
+        ResourceBundleMessageSource messageSource = new ResourceBundleMessageSource();
+        messageSource.setBasename("/messages");
+        return messageSource;
     }
 }
