@@ -11,16 +11,60 @@
   <head>
   <title>로그인</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
   <script src="http://code.jquery.com/jquery.js"></script>
   <script src="/bootstrap/js/bootstrap.min.js"></script>
+  <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <style type="text/css">
+      body {
+          padding-top: 20px;
+          padding-bottom: 40px;
+      }
+
+          /* Custom container */
+      .container-narrow {
+          margin: 0 auto;
+          max-width: 700px;
+      }
+      .container-narrow > hr {
+          margin: 30px 0;
+      }
+
+          /* Main marketing message and sign up button */
+      .jumbotron {
+          margin: 60px 0;
+          text-align: center;
+      }
+      .jumbotron h1 {
+          font-size: 72px;
+          line-height: 1;
+      }
+      .jumbotron .btn {
+          font-size: 21px;
+          padding: 14px 24px;
+      }
+
+          /* Supporting marketing content */
+      .marketing {
+          margin: 60px 0;
+      }
+      .marketing p + h4 {
+          margin-top: 28px;
+      }
+  </style>
   </head>
   <body>
-  <div class="container">
+  <div class="container-narrow">
+
+  <div class="masthead">
+      <h3 class="muted">MyBoard-로그인</h3>
+  </div>
+
+
+  <div class="jumbotron">
   <spring:hasBindErrors name="command" />
   <form:errors path="command"/>
   <form method=get action="/myboard/login">
-   <table class="table uneditable-input">
+   <table class="table">
        <tr>
            <td>아이디</td>
            <td><input type="text" name="id" value="${id}" /><form:errors path="command.id" /></td>
@@ -36,7 +80,7 @@
 
    <input type="submit" value="로그인" />
    </form>
-   </div>
+   </div></div>
   <%@ include file="/myboard/footer.jsp"%>
   </body>
 </html>

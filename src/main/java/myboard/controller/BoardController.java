@@ -44,14 +44,16 @@ public class BoardController {
     }
 
     @RequestMapping (value="/myboard/save", method = RequestMethod.POST)
-    public String save(HttpServletRequest request, @ModelAttribute("command") Board board, BindingResult result) {
+    public String save(HttpServletRequest request, @ModelAttribute Board board, BindingResult result) {
         HttpSession session = request.getSession();
         if (session.getAttribute("isLogin") == null) {
             return "redirect:/myboard/loginform";
         }
 
         new BoardValidator().validate(board, result);
+        System.out.println("result = " + result);
         if (result.hasErrors()) {
+            
             return "insertForm";
         }
 

@@ -16,11 +16,53 @@ function goSaveForm() {
     return;
 }
 </script>
+    <style type="text/css">
+        body {
+            padding-top: 20px;
+            padding-bottom: 40px;
+        }
+
+            /* Custom container */
+        .container-narrow {
+            margin: 0 auto;
+            max-width: 700px;
+        }
+        .container-narrow > hr {
+            margin: 30px 0;
+        }
+
+            /* Main marketing message and sign up button */
+        .jumbotron {
+            margin: 60px 0;
+            text-align: center;
+        }
+        .jumbotron h1 {
+            font-size: 72px;
+            line-height: 1;
+        }
+        .jumbotron .btn {
+            font-size: 21px;
+            padding: 14px 24px;
+        }
+
+            /* Supporting marketing content */
+        .marketing {
+            margin: 60px 0;
+        }
+        .marketing p + h4 {
+            margin-top: 28px;
+        }
+    </style>
 </head>
 <body>
-<div class="container">
+<div class="container-narrow">
 
-  <div>
+    <div class="masthead">
+        <h3 class="muted">MyBoard</h3>
+    </div>
+
+
+    <div class="jumbotron">
   <table class="table table-bordered table-striped">
    <tr>
        <td>id</td>
@@ -42,10 +84,10 @@ function goSaveForm() {
     </tr>
     </c:forEach>
     </table>
+
+<div><input type="button" value="등록" onclick="goSaveForm()" /></div>
     </div>
 </div>
-<div><input type="button" value="등록" onclick="goSaveForm()" /></div>
-<div></div>
 <%--<div>방문자수 : ${loginCount}</div>--%>
 <c:if test="${sessionScope.isLogin eq true}"><div><a href="/myboard/logout">로그아웃</a></div></c:if>
 <%@ include file="/myboard/footer.jsp"%>

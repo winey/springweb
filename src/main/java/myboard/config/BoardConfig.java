@@ -26,7 +26,7 @@ public class BoardConfig extends WebMvcConfigurerAdapter {
         return new BoardMemoryRepository();
     }
     @Bean
-    public MessageSource messageSource () {
+    public MessageSource messageSource() {
         ResourceBundleMessageSource messageSource = new ResourceBundleMessageSource();
         messageSource.setBasename("/messages");
         return messageSource;
