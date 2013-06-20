@@ -10,14 +10,14 @@
     <file path="/Dummy.txt" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371096086175" ignored="false" />
     <file path="$PROJECT_DIR$/../sc/pom.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370567216853" ignored="false" />
     <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/comments/mweb/IndexController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370567216853" ignored="false" />
-    <file path="/fragment.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371031507395" ignored="false" />
+    <file path="/fragment.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371706629685" ignored="false" />
     <file path="/hello.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370568213924" ignored="false" />
     <file path="/spring-config.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370569929483" ignored="false" />
     <file path="/web.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370591848576" ignored="false" />
     <file path="$PROJECT_DIR$/../helloworld/pom.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370571822373" ignored="false" />
     <file path="/index.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370578395071" ignored="false" />
     <file path="/MyBoardConfig.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370579295524" ignored="false" />
-    <file path="/BoardController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371095527411" ignored="false" />
+    <file path="/BoardController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371705863997" ignored="false" />
     <file path="/BoardMemoryRepository.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370579692376" ignored="false" />
     <file path="$PROJECT_DIR$/../webhello/src/main/java/myboard/controller/BoardListServlet.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370579824732" ignored="false" />
     <file path="/boardLoginForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370582356272" ignored="false" />
@@ -34,19 +34,21 @@
     <file path="$PROJECT_DIR$/../webhello/src/main/java/myboard/controller/BoardDetailServlet.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370583902895" ignored="false" />
     <file path="$PROJECT_DIR$/../webhello/web/mymall/orderList.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370585266908" ignored="false" />
     <file path="$PROJECT_DIR$/../webhello/src/main/java/myboard/controller/BoardLogoutServlet.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370586186975" ignored="false" />
-    <file path="/insertForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371097302449" ignored="false" />
-    <file path="/dispatcher-servlet.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370591888587" ignored="false" />
+    <file path="/insertForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371099527237" ignored="false" />
+    <file path="/dispatcher-servlet.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371707820322" ignored="false" />
     <file path="/Board.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371000031941" ignored="false" />
     <file path="/BoardValidator.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371027755491" ignored="false" />
     <file path="/LoginController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371096180249" ignored="false" />
     <file path="/LoginRequest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371029410305" ignored="false" />
     <file path="/LoginValidator.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371029213679" ignored="false" />
-    <file path="/LoginRequestValidator.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371029210523" ignored="false" />
+    <file path="/LoginRequestValidator.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371098218947" ignored="false" />
     <file path="/loginForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371097282774" ignored="false" />
     <file path="/message.properties" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371096152047" ignored="false" />
     <file path="/detail.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371097271291" ignored="false" />
     <file path="/list.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371097008675" ignored="false" />
     <file path="/updateForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371097311355" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/.idea/libraries/Maven__org_projectlombok_lombok_0_11_8.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371099556763" ignored="false" />
+    <file path="/LoginCheckInterceptor.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371706758670" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,10 +109,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LoginController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/LoginController.java">
+      <file leaf-file-name="BoardController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="42" selection-start="1366" selection-end="1366" vertical-scroll-proportion="0.0">
+            <state line="33" column="93" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginCheckInterceptor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/interceptor/LoginCheckInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="4" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginRequestValidator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="24" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardConfig.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="8" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,79 +150,43 @@
       <file leaf-file-name="BoardValidator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/BoardValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="705" selection-end="807" vertical-scroll-proportion="0.0">
+            <state line="16" column="13" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoardRepository.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardRepository.java">
+      <file leaf-file-name="dispatcher-servlet.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="17" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+            <state line="15" column="44" selection-start="740" selection-end="740" vertical-scroll-proportion="0.4197761">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginRequestValidator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java">
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="58" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.0">
+            <state line="31" column="18" selection-start="1095" selection-end="1095" vertical-scroll-proportion="-10.56">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginRequest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/domain/LoginRequest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loginForm.jsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/loginForm.jsp">
+      <file leaf-file-name="LoginController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="57" selection-start="1598" selection-end="1598" vertical-scroll-proportion="1.6477273">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/message.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/message.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="17" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insertForm.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/insertForm.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="46" selection-start="1609" selection-end="1609" vertical-scroll-proportion="-2.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/list.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="82" selection-start="2210" selection-end="2210" vertical-scroll-proportion="-13.25">
+            <state line="34" column="0" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -207,22 +202,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/myboard/entity/Board.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myboard/validator/LoginValidator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/myboard/config/BoardConfigTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/message.properties" />
         <option value="$PROJECT_DIR$/src/main/java/myboard/validator/BoardValidator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/message.properties" />
         <option value="$PROJECT_DIR$/src/main/java/myboard/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/myboard/detail.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/myboard/loginForm.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/myboard/updateForm.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/myboard/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/domain/LoginRequest.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/myboard/insertForm.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myboard/domain/LoginRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/service/LoginCheckInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/interceptor/LoginCheckInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
       </list>
     </option>
   </component>
@@ -313,6 +308,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -413,66 +409,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myboard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -588,7 +524,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
+              <option name="myItemId" value="interceptor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -673,14 +609,9 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -691,7 +622,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -711,6 +642,7 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -788,6 +720,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -814,19 +759,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -983,7 +915,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -997,7 +929,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32870865" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1005,8 +937,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.51267916" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2717211" sideWeight="0.660419" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33958104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2711677" sideWeight="0.6615215" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3384785" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1079,114 +1011,117 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/loginForm.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="27" selection-start="968" selection-end="968" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/domain/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="67" selection-start="1568" selection-end="1568" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/myboard/config/BoardConfigTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="69" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/updateForm.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="29" selection-start="1505" selection-end="1505" vertical-scroll-proportion="-12.583333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/detail.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="59" selection-start="1476" selection-end="1476" vertical-scroll-proportion="-11.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/insertForm.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="46" selection-start="1609" selection-end="1609" vertical-scroll-proportion="-2.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/message.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/message.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="58" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/BoardValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="705" selection-end="807" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="17" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="79" column="56" selection-start="2224" selection-end="2224" vertical-scroll-proportion="0.7921478" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/myboard/domain/LoginRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.19758508" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="17" selection-start="254" selection-end="254" vertical-scroll-proportion="0.18111965" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/message_ko.properties">
+      <provider selected="true" editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/message.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="0.04939627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/message_ko.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.033860046" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="82" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.7632469" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/insertForm.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="26" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="42" selection-start="1366" selection-end="1366" vertical-scroll-proportion="0.0">
+        <state line="34" column="0" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/list.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="82" selection-start="2210" selection-end="2210" vertical-scroll-proportion="-13.25">
+        <state line="20" column="8" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/loginForm.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="57" selection-start="1598" selection-end="1598" vertical-scroll-proportion="1.6477273">
+        <state line="23" column="24" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/BoardValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="93" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/interceptor/LoginCheckInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="4" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="18" selection-start="1095" selection-end="1095" vertical-scroll-proportion="-10.56">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="44" selection-start="740" selection-end="740" vertical-scroll-proportion="0.4197761">
           <folding />
         </state>
       </provider>

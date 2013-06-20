@@ -58,7 +58,7 @@
 
       <div class="jumbotron">
   <spring:hasBindErrors name="command" />
-  <form:errors path="command"/>
+  <form:errors path="board"/>
   <form method=post action="/myboard/save">
     <table class="table uneditable-input">
        <tr>

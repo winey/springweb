@@ -5,6 +5,7 @@ import myboard.repository.BoardRepository;
 import myboard.validator.BoardValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -31,16 +32,13 @@ public class BoardController {
 
 
     @RequestMapping (value = "/myboard", method=RequestMethod.GET)
-    public ModelAndView hello(HttpServletRequest request) {
-        ModelAndView mav = new ModelAndView();
-        HttpSession session = request.getSession();
-        if (session.getAttribute("isLogin") == null) {
-            mav.setViewName("loginForm");
-            return mav;
-        }
-        mav.addObject("boards",boardRepository.getBoards());
-        mav.setViewName("list");
-        return mav;
+    public String hello(HttpServletRequest request, Model model) {
+//        HttpSession session = request.getSession();
+//        if (session.getAttribute("isLogin") == null) {
+//            return "loginForm";
+//        }
+        model.addAttribute("boards",boardRepository.getBoards());
+        return "list";
     }
 
     @RequestMapping (value="/myboard/save", method = RequestMethod.POST)
