@@ -1,7 +1,7 @@
 package myboard.config;
 
 import myboard.interceptor.LoginCheckInterceptor;
-import myboard.repository.BoardJdbcRepository;
+import myboard.repository.BoardJDBCRepository;
 import myboard.repository.BoardRepository;
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;
@@ -9,6 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.support.ResourceBundleMessageSource;
 import org.springframework.jdbc.datasource.SimpleDriverDataSource;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
@@ -23,6 +24,7 @@ import javax.sql.DataSource;
  * To change this template use File | Settings | File Templates.
  */
 @EnableWebMvc
+@EnableTransactionManagement
 @ComponentScan(basePackages = {"myboard"})
 @Configuration
 public class BoardConfig extends WebMvcConfigurerAdapter {
@@ -30,7 +32,7 @@ public class BoardConfig extends WebMvcConfigurerAdapter {
     public BoardRepository boardRepository() {
         //return new BoardMemoryRepository();
         //return new BoardDBRepository();
-        return new BoardJdbcRepository(psqlDataSource());
+        return new BoardJDBCRepository(psqlDataSource());
     }
     @Bean
     public MessageSource messageSource() {
