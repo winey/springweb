@@ -5,12 +5,13 @@
 
     <mvc:default-servlet-handler />
 
-    <mvc:annotation-driven />
-    <mvc:interceptors>
-        <mvc:interceptor>
-            <mvc:mapping path="/myboard/*" />
-            <bean class="myboard.interceptor.LoginCheckInterceptor" />
-        </mvc:interceptor>
-    </mvc:interceptors>
+    <!--<mvc:annotation-driven />-->
+
+    <!--<mvc:interceptors>-->
+        <!--<mvc:interceptor>-->
+            <!--<mvc:mapping path="/myboard/*" />-->
+            <!--<bean class="myboard.interceptor.LoginCheckInterceptor" />-->
+        <!--</mvc:interceptor>-->
+    <!--</mvc:interceptors>-->
 
 </beans>

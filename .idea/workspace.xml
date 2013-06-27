@@ -7,17 +7,17 @@
     <file path="/pom.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370588531195" ignored="false" />
     <file path="/HelloConfig.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370567137075" ignored="false" />
     <file path="/HelloController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370568015234" ignored="false" />
-    <file path="/Dummy.txt" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371096086175" ignored="false" />
+    <file path="/Dummy.txt" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372313530821" ignored="false" />
     <file path="$PROJECT_DIR$/../sc/pom.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370567216853" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/comments/mweb/IndexController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370567216853" ignored="false" />
-    <file path="/fragment.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371706629685" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/comments/mweb/IndexController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371806199540" ignored="false" />
+    <file path="/fragment.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372317642038" ignored="false" />
     <file path="/hello.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370568213924" ignored="false" />
     <file path="/spring-config.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370569929483" ignored="false" />
     <file path="/web.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370591848576" ignored="false" />
     <file path="$PROJECT_DIR$/../helloworld/pom.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370571822373" ignored="false" />
     <file path="/index.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370578395071" ignored="false" />
     <file path="/MyBoardConfig.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370579295524" ignored="false" />
-    <file path="/BoardController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371705863997" ignored="false" />
+    <file path="/BoardController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372315025526" ignored="false" />
     <file path="/BoardMemoryRepository.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370579692376" ignored="false" />
     <file path="$PROJECT_DIR$/../webhello/src/main/java/myboard/controller/BoardListServlet.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370579824732" ignored="false" />
     <file path="/boardLoginForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370582356272" ignored="false" />
@@ -27,7 +27,7 @@
     <file path="/boardUpdateForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370584449286" ignored="false" />
     <file path="$PROJECT_DIR$/../webhello/src/main/java/myboard/controller/BoardLoginFormServlet.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370581195754" ignored="false" />
     <file path="$PROJECT_DIR$/../webhello/src/main/java/myboard/controller/BoardLoginServlet.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370581217814" ignored="false" />
-    <file path="/BoardConfig.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371027379632" ignored="false" />
+    <file path="/BoardConfig.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372317720659" ignored="false" />
     <file path="$PROJECT_DIR$/../webhello/src/main/java/myboard/controller/BoardInsertFormServlet.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370582965013" ignored="false" />
     <file path="$PROJECT_DIR$/../webhello/src/main/java/myboard/controller/BoardSaveServlet.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370583145965" ignored="false" />
     <file path="$PROJECT_DIR$/../webhello/src/main/java/myboard/controller/BoardUpdateFormServlet.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1370583608181" ignored="false" />
@@ -38,17 +38,63 @@
     <file path="/dispatcher-servlet.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371707820322" ignored="false" />
     <file path="/Board.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371000031941" ignored="false" />
     <file path="/BoardValidator.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371027755491" ignored="false" />
-    <file path="/LoginController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371096180249" ignored="false" />
+    <file path="/LoginController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372314821409" ignored="false" />
     <file path="/LoginRequest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371029410305" ignored="false" />
     <file path="/LoginValidator.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371029213679" ignored="false" />
     <file path="/LoginRequestValidator.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371098218947" ignored="false" />
-    <file path="/loginForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371097282774" ignored="false" />
+    <file path="/loginForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371778962015" ignored="false" />
     <file path="/message.properties" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371096152047" ignored="false" />
     <file path="/detail.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371097271291" ignored="false" />
     <file path="/list.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371097008675" ignored="false" />
     <file path="/updateForm.jsp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371097311355" ignored="false" />
     <file path="$PROJECT_DIR$/../sc/.idea/libraries/Maven__org_projectlombok_lombok_0_11_8.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371099556763" ignored="false" />
-    <file path="/LoginCheckInterceptor.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371706758670" ignored="false" />
+    <file path="/LoginCheckInterceptor.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372315765839" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/dashboard/web/DashboardCommentsController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371792589276" ignored="false" />
+    <file path="/DashboardCommentsController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371792573763" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/test/java/com/skplanet/ugc/dashboard/web/DashboardCommentsControllerTest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371802404116" ignored="false" />
+    <file path="/DashboardCommentsControllerTest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371801695036" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/comments/api_module/OpenPageRequest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212924" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/model/HostPageMark.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212924" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/model/Comments.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371794207973" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/comments/api_module/ApiPageService.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212924" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/comments/api/CommentsApiController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212924" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/comments/api_module/PageService.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212924" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/model/CommentsListResponse.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212924" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/module/CommentsServiceImpl.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371801334324" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/module/CommentsService.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212925" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/test/java/com/skplanet/ugc/comments/mweb/IndexControllerTest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371807026422" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/test/java/com/skplanet/ugc/comments/api/CommentsApiControllerTest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212925" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/test/java/com/skplanet/ugc/PersistenceTestConfig.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212925" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/dashboard/web/PageMarkController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212925" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/test/java/com/skplanet/ugc/dashboard/web/PageMarkControllerTest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371790212925" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/model/CommentsForm.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371803606889" ignored="false" />
+    <file path="/CommentsForm.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371803573564" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/module/rate/RateServiceImpl.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371794055482" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/model/RangeRate.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371794055482" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/model/FiveRate.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371794055482" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/module/rate/RateRepository.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371794055482" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/module/rate/RateService.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371794055482" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/model/ThreeRate.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371794055482" ignored="false" />
+    <file path="/Comments.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371794207575" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/module/CommentsSpecs.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371799339950" ignored="false" />
+    <file path="/CommentsSpecs.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371799337466" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/module/CommentsRepository.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371799160931" ignored="false" />
+    <file path="/CommentsServiceImpl.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371801292535" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/test/java/com/skplanet/ugc/core/module/CommentsServiceTest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371801401096" ignored="false" />
+    <file path="/CommentsServiceTest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371801400181" ignored="false" />
+    <file path="/IndexController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371806199540" ignored="false" />
+    <file path="/IndexControllerTest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371807025399" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/webapp/WEB-INF/views/index.m.html" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371803009410" ignored="false" />
+    <file path="/index.m.html" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371802975006" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/dashboard/web/RatePollController.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371807144851" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/module/rate/FullRatePollDto.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371807144851" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/model/Contents.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371807144851" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/test/java/com/skplanet/ugc/dashboard/web/RatePollControllerTest.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371807144851" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/src/main/java/com/skplanet/ugc/core/module/ContentsRepository.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1371807144851" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc/.idea/workspace.xml" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372319391510" ignored="false" />
+    <file path="/Dummy.regexp" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372316374520" ignored="false" />
+    <file path="/BoardDBRepository.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372317438982" ignored="false" />
+    <file path="/BoardJdbcRepository.java" changelist="88e6a3ff-a071-4ebc-8f7a-e4e3d40695bf" time="1372319140381" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,55 +158,10 @@
       <file leaf-file-name="BoardController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="93" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginCheckInterceptor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/interceptor/LoginCheckInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="4" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+            <state line="43" column="52" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginRequestValidator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="24" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BoardConfig.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="8" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BoardValidator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/BoardValidator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="13" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dispatcher-servlet.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="44" selection-start="740" selection-end="740" vertical-scroll-proportion="0.4197761">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -170,23 +171,96 @@
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
             <state />
           </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="18" selection-start="1095" selection-end="1095" vertical-scroll-proportion="-10.56">
+            <state line="49" column="62" selection-start="1706" selection-end="1706" vertical-scroll-proportion="-8.64">
               <folding />
             </state>
           </provider>
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
             <state />
           </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="LoginRequestValidator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="13" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LoginController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0">
+            <state line="30" column="103" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginCheckInterceptor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/interceptor/LoginCheckInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="43" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardConfig.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="55" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.7548701">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="21" selection-start="3240" selection-end="3240" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardDBRepository.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardDBRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#812#819#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardJdbcRepository.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardJdbcRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="37" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#843#1372#0" expanded="true" />
+                <element signature="e#1357#1358#0" expanded="true" />
+                <element signature="e#2529#3057#0" expanded="true" />
+                <element signature="e#3042#3043#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardMemoryRepository.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardMemoryRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="80" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -202,22 +276,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/message.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/myboard/validator/BoardValidator.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/message.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/myboard/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/myboard/detail.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/myboard/loginForm.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/myboard/updateForm.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/myboard/list.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/myboard/domain/LoginRequest.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/myboard/insertForm.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/myboard/service/LoginCheckInterceptor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/myboard/interceptor/LoginCheckInterceptor.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login/loginForm.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/interceptor/LoginCheckInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/repository/BoardDBRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myboard/repository/BoardJdbcRepository.java" />
       </list>
     </option>
   </component>
@@ -275,10 +349,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="x" value="64" />
+    <option name="y" value="-5" />
+    <option name="width" value="1857" />
+    <option name="height" value="1086" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -308,8 +382,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -343,6 +415,18 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -410,6 +494,44 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resource Bundle 'message'" />
+              <option name="myItemType" value="com.intellij.lang.properties.projectView.ResourceBundleNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -612,6 +734,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -622,7 +746,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webhello" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -640,16 +764,19 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="myboard.repository" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/login" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/webapp/META-INF" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
-      <recent name="$PROJECT_DIR$/src/main" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="myboard" />
@@ -720,19 +847,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -759,6 +873,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -915,7 +1042,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="0" />
+    <frame x="64" y="-5" width="1857" height="1086" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -929,17 +1056,17 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.51267916" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.8292423" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2711677" sideWeight="0.6615215" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3384785" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27031508" sideWeight="0.70757735" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29242262" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958494" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1011,92 +1138,106 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/loginForm.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login/loginForm.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="56" selection-start="2224" selection-end="2224" vertical-scroll-proportion="0.7921478" />
+        <state line="1" column="93" selection-start="71" selection-end="71" vertical-scroll-proportion="0.028142588" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/domain/LoginRequest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/error.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.19758508" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="17" selection-start="254" selection-end="254" vertical-scroll-proportion="0.18111965" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/message_ko.properties">
-      <provider selected="true" editor-type-id="ResourceBundle">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/message.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="0.04939627" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/message_ko.properties">
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.033860046" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="82" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.7632469" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/insertForm.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="26" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="8" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="24" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/BoardValidator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+        <state line="23" column="24" selection-start="625" selection-end="633" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/myboard/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="93" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.0">
+        <state line="71" column="58" selection-start="1809" selection-end="1809" vertical-scroll-proportion="-11.791667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="461" selection-end="461" vertical-scroll-proportion="-3.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="17" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/myboard/interceptor/LoginCheckInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="4" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+        <state line="29" column="43" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="21" selection-start="3240" selection-end="3240" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="103" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/validator/LoginRequestValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardMemoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="80" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardDBRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#812#819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/repository/BoardJdbcRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="37" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#843#1372#0" expanded="true" />
+            <element signature="e#1357#1358#0" expanded="true" />
+            <element signature="e#2529#3057#0" expanded="true" />
+            <element signature="e#3042#3043#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/controller/BoardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="52" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1107,22 +1248,24 @@
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
       </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="18" selection-start="1095" selection-end="1095" vertical-scroll-proportion="-10.56">
+        <state line="49" column="62" selection-start="1706" selection-end="1706" vertical-scroll-proportion="-8.64">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/myboard/config/BoardConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="44" selection-start="740" selection-end="740" vertical-scroll-proportion="0.4197761">
-          <folding />
+        <state line="31" column="55" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.7548701">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
